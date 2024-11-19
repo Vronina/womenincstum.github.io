@@ -6,6 +6,8 @@ main:
     url: /members/
   - title: "Archive"
     url: /archive/
+  - title: "Contact us"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
