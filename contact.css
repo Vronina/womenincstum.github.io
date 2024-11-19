@@ -1,0 +1,46 @@
+/* General FAQ styling */
+details {
+    margin-bottom: 1rem; /* Add spacing between sections */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 0.5rem;
+    background-color: #f9f9f9; /* Subtle background color */
+    transition: all 0.3s ease;
+}
+
+details:hover {
+    border-color: #aaa; /* Change border color on hover */
+}
+
+/* Styling the summary (question) */
+summary {
+    cursor: pointer; /* Indicate it is clickable */
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: #333; /* Text color */
+    margin: -0.5rem;
+    padding: 0.5rem;
+    list-style: none; /* Remove default list style */
+}
+
+summary:hover {
+    color: #0075b9; /* Highlight color on hover */
+    text-decoration: underline;
+}
+
+/* Add spacing and indentation for the answer (content) */
+details > *:not(summary) {
+    margin-top: 0.5rem;
+    padding-left: 1rem; /* Indent the answer slightly */
+    color: #555; /* Subtle text color for answers */
+}
+
+/* Transition for smoother opening/closing */
+details[open] {
+    border-color: #0075b9;
+    background-color: #eef6ff;
+}
+
+details[open] summary {
+    color: #002c4f; /* Change text color when open */
+}

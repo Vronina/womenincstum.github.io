@@ -1,12 +1,14 @@
 ---
 layout: single
 title: Contact us
-permalink: /Contact us/
+permalink: /contact/
 ---
 
-![](../assets/images/IFF-logo-oval.png)
+<img src="../assets/images/IFF-logo-oval.png" alt="IFF Logo" width="200" height="50">
 
 ## Frequently Asked Questions
+
+<link rel="stylesheet" href="../contact.css">
 
 <details>
     <summary>Who can join WomeninCS@TUM?</summary>
@@ -20,7 +22,7 @@ permalink: /Contact us/
 
 <details>
     <summary>How can I join WomeninCS@TUM?</summary>
-    We are recruiting at the beginning of each summer semester. Just stay tuned for more updates when the recruiting process starts and follow us on Instagram for the latest information: [](https://www.instagram.com/women.in.cs.at.tum/)
+    We are recruiting at the beginning of each summer semester. Just stay tuned for more updates when the recruiting process starts and follow us on Instagram for the latest information: <p style="margin: 0; padding: 0;"> <a href="https://www.instagram.com/women.in.cs.at.tum/" target="_blank">our Instagram profile</a> </p>
 </details>
 
 <details>
@@ -30,7 +32,7 @@ permalink: /Contact us/
 
 <details>
     <summary>How can I stay updated on upcoming events?</summary>
-    We announce our events on our Instagram page ([](https://www.instagram.com/women.in.cs.at.tum/)). Just follow us for regular updates and invitations to new events. 
+    We announce our events on Instagram: <p style="margin: 0; padding: 0;"> <a href="https://www.instagram.com/women.in.cs.at.tum/" target="_blank">our Instagram profile</a> </p> Just follow us for regular updates and invitations to new events. 
 </details>
 
 <details>
@@ -46,6 +48,6 @@ permalink: /Contact us/
 
 ## Contact us! ##
 
-If you have any questions or would like to get in touch with us, don't hesitate to contact us via our email: [](mailto:womenincstum@gmail.com):
+If you have any questions or would like to get in touch with us, don't hesitate to contact us via our email: [womenincstum@gmail.com](mailto:womenincstum@gmail.com)
 
 
